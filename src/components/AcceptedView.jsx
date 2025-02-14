@@ -39,7 +39,7 @@ const AcceptedView = () => {
     setSparkles(newSparkles);
 
     // Create audio element
-    const audio = new Audio('/music/skipandloafer.mp3');
+    const audio = new Audio('https://github.com/dynozilla/valentine/blob/main/public/music/skipandloafer.mp3');
     audio.loop = true;
 
     // Play audio when component mounts
