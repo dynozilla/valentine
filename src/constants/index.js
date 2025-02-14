@@ -1,6 +1,5 @@
 export const MESSAGES = [
   'Will you be my Valentine?',
-  'Are you sure...? 😢',
   'Please reconsider! 🥺',
   "You're breaking my heart! 💔",
   'PLEASE SAY YES! 😭',
