@@ -6,4 +6,5 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   assetsInclude: ['**/*.mp3'],
+  base: '/valentine/',
 });
